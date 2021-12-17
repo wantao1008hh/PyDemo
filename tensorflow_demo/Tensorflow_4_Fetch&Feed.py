@@ -8,7 +8,6 @@ import tensorflow as tf
 #
 
 # 2.Feed
-
 # 上述示例在计算图中引入了 tensor, 以常量或变量的形式存储.
 # TensorFlow 还提供了 feed 机制, 该机制可以临时替代图中的任意操作中的 tensor 可以对图中任何操作提交补丁,
 # 直接插入一个 tensor.
